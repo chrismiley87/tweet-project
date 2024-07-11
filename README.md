@@ -74,10 +74,10 @@ July 10, 2024
 ## Repository Structure
 
 ```
-├── data.csv
 ├── images
-├── notebook.ipynb
 ├── README.md
+├── data.csv
+├── notebook.ipynb
 └── presentation.pdf
 ```
 
